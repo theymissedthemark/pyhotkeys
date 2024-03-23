@@ -8,4 +8,4 @@ Otherwise,
 
 Then just run the executable. 
 
-You can start and stop the hotkeys running with #F1
+You can start and stop the hotkeys running with F1
