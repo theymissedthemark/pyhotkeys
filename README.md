@@ -7,3 +7,5 @@ Otherwise,
 > pyinstaller hotkey_automation.spec
 
 Then just run the executable. 
+
+You can start and stop the hotkeys running with #F1
