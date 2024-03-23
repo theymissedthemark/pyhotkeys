@@ -1,5 +1,8 @@
 # pyhotkeys
 
+Dependencies you can install with pip:
+> pyautogui, keyboard, tkinter
+
 If you don't have it,
 > pip install pyinstaller 
 
