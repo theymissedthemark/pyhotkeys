@@ -1,5 +1,7 @@
 # pyhotkeys
 
+Python version 3.X
+
 Dependencies you can install with pip:
 > pyautogui, keyboard, tkinter
 
